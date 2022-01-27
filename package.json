@@ -1,0 +1,14 @@
+{
+  "name": "nodecourse",
+  "version": "1.0.0",
+  "description": "My first package",
+  "main": "1-Intro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "GSipes",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
